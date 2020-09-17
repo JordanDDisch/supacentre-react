@@ -1,0 +1,8 @@
+{
+    "extends": "@aligent/eslint-config",
+    "rules": {
+        "template-curly-spacing": "off",
+        "indent": "off",
+        "import/no-useless-path-segments": "off"
+    }
+}
